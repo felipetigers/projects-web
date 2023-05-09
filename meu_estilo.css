@@ -1,0 +1,43 @@
+@CHARSET “ISO-8859-1”;
+
+body {
+  font-family: Trebuchet MS;
+  padding: 15px;
+}
+
+#fixo {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background: #000000;
+}
+
+.table-hover{
+	font-size: 25px;
+}
+
+h1 {
+  text-align: left;
+  color: #00416b;
+  font-family: Trebuchet MS;
+}
+
+button {
+  background-color: #008CBA;
+  font-size: 15px;
+  color: white;
+  border-radius: 4px;
+  width: 200px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.opcoes {
+	text-align: center;
+    width: 200px;
+}
+
+a {
+	text-decoration: none;
+	padding: 5px;
+}
